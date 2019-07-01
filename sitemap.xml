@@ -3,13 +3,72 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ollypolly.github.io/posts/eventsystem/</loc>
+    <lastmod>2019-07-01T16:09:40+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ollypolly.github.io/</loc>
+    <lastmod>2019-07-01T16:09:40+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ollypolly.github.io/posts/</loc>
+    <lastmod>2019-07-01T16:09:40+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ollypolly.github.io/tags/</loc>
+    <lastmod>2019-07-01T16:09:40+01:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ollypolly.github.io/tags/untagged/</loc>
+    <lastmod>2019-07-01T16:09:40+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ollypolly.github.io/posts/trainbrain/</loc>
+    <lastmod>2019-04-01T16:09:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ollypolly.github.io/posts/stmaryswebsite/</loc>
+    <lastmod>2018-07-01T16:09:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ollypolly.github.io/posts/socorro/</loc>
+    <lastmod>2018-07-01T14:46:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ollypolly.github.io/posts/androidapp/</loc>
+    <lastmod>2018-04-01T16:09:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ollypolly.github.io/posts/music/</loc>
+    <lastmod>2017-07-01T16:09:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ollypolly.github.io/posts/rpsca/</loc>
+    <lastmod>2015-07-01T16:09:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ollypolly.github.io/posts/stmarysvideo/</loc>
+    <lastmod>2015-07-01T16:09:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ollypolly.github.io/posts/mancala/</loc>
+    <lastmod>2013-07-01T16:09:40+01:00</lastmod>
   </url>
   
 </urlset>

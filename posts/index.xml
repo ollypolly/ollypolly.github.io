@@ -1,0 +1,194 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Olly Pethick</title>
+		<link>https://ollypolly.github.io/posts/</link>
+		<description>Recent content in Posts on Olly Pethick</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Mon, 01 Jul 2019 16:09:40 +0100</lastBuildDate>
+		<atom:link href="https://ollypolly.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Employment - Colligiate Church of St Mary Website Events Ticketing System</title>
+			<link>https://ollypolly.github.io/posts/eventsystem/</link>
+			<pubDate>Mon, 01 Jul 2019 16:09:40 +0100</pubDate>
+			
+			<guid>https://ollypolly.github.io/posts/eventsystem/</guid>
+			<description>I am currently developing an update to the website I redesigned in 2018. This system will provide a method of accepting payment and providing tickets for events held at the venue. The website will also feature an admin view to manage and create events and tickets.
+This system is being built using React, Express, MongoDB, Node, GraphQL and Stripe.
+Design Screenshots: </description>
+			<content type="html"><![CDATA[<p>I am currently developing an update to the website I redesigned in 2018. This system will provide a method of accepting payment and providing tickets for events held at the venue.  The website will also feature an admin view to manage and create events and tickets.</p>
+
+<p>This system is being built using React, Express, MongoDB, Node, GraphQL and Stripe.</p>
+
+<p>Design Screenshots:
+<img src="../images/events1.png" alt="drawing" width="600"/>
+<img src="../images/events2.png" alt="drawing" width="600"/>
+<img src="../images/events3.png" alt="drawing" width="600"/></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Final Year Project - TrainBrain - National/Network Rail Services Analytics Website</title>
+			<link>https://ollypolly.github.io/posts/trainbrain/</link>
+			<pubDate>Mon, 01 Apr 2019 16:09:40 +0100</pubDate>
+			
+			<guid>https://ollypolly.github.io/posts/trainbrain/</guid>
+			<description>For my Final Year Project at university I developed a web application using React, Redux and Firebase.
+This system collected data about network rail services using Firebase cloud functions overnight to allow users to make decisions on their train journeys. The website also used certain third party APIs to display informtion about current departure boards, and trains of up to a week prior.
+Screenshots: </description>
+			<content type="html"><![CDATA[<p>For my Final Year Project at university I developed a web application using React, Redux and Firebase.</p>
+
+<p>This system collected data about network rail services using Firebase cloud functions overnight to allow users to make decisions on their train journeys. The website also used certain third party APIs to display informtion about current departure boards, and trains of up to a week prior.</p>
+
+<p>Screenshots:
+<img src="../images/trainbrain1.png" alt="drawing" width="300"/>
+<img src="../images/trainbrain3.png" alt="drawing" width="300"/>
+<img src="../images/trainbrain2.png" alt="drawing" width="600"/>
+<img src="../images/trainbrain4.png" alt="drawing" width="600"/>
+<img src="../images/trainbrain4.4.png" alt="drawing" width="600"/>
+<img src="../images/trainbrain4.5.png" alt="drawing" width="600"/>
+<img src="../images/trainbrain5.png" alt="drawing" width="600"/>
+<img src="../images/trainbrain6.png" alt="drawing" width="600"/></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Employment - Colligiate Church of St Mary Website Redesign</title>
+			<link>https://ollypolly.github.io/posts/stmaryswebsite/</link>
+			<pubDate>Sun, 01 Jul 2018 16:09:40 +0100</pubDate>
+			
+			<guid>https://ollypolly.github.io/posts/stmaryswebsite/</guid>
+			<description>I took on the redesign of a current church website. The website used a content management system ExpressionEngine. I redesigned the front end of the website and used the existing backend to add more features to the website. I also ensured the website was fully mobile responsive.
+Link: http://www.stmaryswarwick.org.uk
+Original Website Screenshot: New Website Screenshots: </description>
+			<content type="html"><![CDATA[<p>I took on the redesign of a current church website. The website used a content management system ExpressionEngine. I redesigned the front end of the website and used the existing backend to add more features to the website. I also ensured the website was fully mobile responsive.</p>
+
+<p>Link:
+<a href="http://www.stmaryswarwick.org.uk">http://www.stmaryswarwick.org.uk</a></p>
+
+<p>Original Website Screenshot:
+<img src="../images/stmarys.png" alt="drawing" width="600"/></p>
+
+<p>New Website Screenshots:
+<img src="../images/stmarysnew.png" alt="drawing" width="600"/></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>2nd Year Group Project - Socorro - Web Help Desk Application</title>
+			<link>https://ollypolly.github.io/posts/socorro/</link>
+			<pubDate>Sun, 01 Jul 2018 14:46:21 +0100</pubDate>
+			
+			<guid>https://ollypolly.github.io/posts/socorro/</guid>
+			<description>As part of a 2nd Year Group project, I led a team of 5 people to design and develop a dynamic web help desk application for managing software and hardware issues in a company.
+Screenshots: </description>
+			<content type="html"><![CDATA[<p>As part of a 2nd Year Group project, I led a team of 5 people to design and develop a dynamic web help desk application for managing software and hardware issues in a company.</p>
+
+<p>Screenshots:
+<img src="../images/socorro1.png" alt="drawing" width="650"/>
+<img src="../images/socorro2.png" alt="drawing" width="600"/>
+<img src="../images/socorro3.png" alt="drawing" width="300"/>
+<img src="../images/socorro4.png" alt="drawing" width="600"/>
+<img src="../images/socorro5.png" alt="drawing" width="600"/></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>2nd Year Project - Dreamr - Android Online Dream Journal</title>
+			<link>https://ollypolly.github.io/posts/androidapp/</link>
+			<pubDate>Sun, 01 Apr 2018 16:09:40 +0100</pubDate>
+			
+			<guid>https://ollypolly.github.io/posts/androidapp/</guid>
+			<description>In second year of university I completed a project involving the development of an android app.
+I decided to utilize firebase as it provided a robust login system for handling users. The app allowed users to save dreams they have, with the ability to set up an alarm notification that would take them to the new dream screen. This screen allowed the user to use speech to text android functionality to enter in their dreams as most users would be too sleepy to type when they had just woken up.</description>
+			<content type="html"><![CDATA[<p>In second year of university I completed a project involving the development of an android app.</p>
+
+<p>I decided to utilize firebase as it provided a robust login system for handling users. The app allowed users to save dreams they have, with the ability to set up an alarm notification that would take them to the new dream screen. This screen allowed the user to use speech to text android functionality to enter in their dreams as most users would be too sleepy to type when they had just woken up.</p>
+
+<p>Users could then decide to post their dreams to be publicly available board called the dreamscape. Alternively they could post there nightmares to a public board known as the nightscape.</p>
+
+<p>This project allowed be to develop my Java skills and android knowledge of activities.</p>
+
+<p><img src="../images/login.png" alt="drawing" width="300"/>
+<img src="../images/mydreams.png" alt="drawing" width="300"/>
+<img src="../images/dreamscape.png" alt="drawing" width="300"/>
+<img src="../images/nightscape.png" alt="drawing" width="300"/>
+<img src="../images/alarm.png" alt="drawing" width="300"/>
+<img src="../images/new_dream.png" alt="drawing" width="300"/>
+<img src="../images/profile.png" alt="drawing" width="300"/></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>1st Year Project - Web Music Player</title>
+			<link>https://ollypolly.github.io/posts/music/</link>
+			<pubDate>Sat, 01 Jul 2017 16:09:40 +0100</pubDate>
+			
+			<guid>https://ollypolly.github.io/posts/music/</guid>
+			<description>During my first year of univerisity I developed a web music player that featured an on screen keyboard that could also be triggered automatically using the keyboard.
+The player also featured a search function for searching for songs or albums.
+Screenshots:</description>
+			<content type="html"><![CDATA[<p>During my first year of univerisity I developed a web music player that featured an on screen keyboard that could also be triggered automatically using the keyboard.</p>
+
+<p>The player also featured a search function for searching for songs or albums.</p>
+
+<p>Screenshots:</p>
+
+<p><img src="../images/musicplayer.png" alt="Music Player" /></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>A level Computing Project - Web RSPCA Mileage Tracker</title>
+			<link>https://ollypolly.github.io/posts/rpsca/</link>
+			<pubDate>Wed, 01 Jul 2015 16:09:40 +0100</pubDate>
+			
+			<guid>https://ollypolly.github.io/posts/rpsca/</guid>
+			<description>For my A level computing project I took on a project converting an existing paper mileage tracking system that was currently in use by my Father at the time into a digital format. This allowed the entering of mileage informaiton from either a smart phone or a pc, making the process easier. This was later digitized by the RSPCA in a similar way through the use of google forms.
+To achieve this I created a HTML, CSS, JavaScript using firebase as a backend.</description>
+			<content type="html"><![CDATA[<p>For my A level computing project I took on a project converting an existing paper mileage tracking system that was currently in use by my Father at the time into a digital format. This allowed the entering of mileage informaiton from either a smart phone or a pc, making the process easier. This was later digitized by the RSPCA in a similar way through the use of google forms.</p>
+
+<p>To achieve this I created a HTML, CSS, JavaScript using firebase as a backend. The application would produce a paper pdf claim form to then be submitted to RSPCA.</p>
+
+<p>Screenshots:</p>
+
+<p><img src="../images/rspca1.png" alt="Login" />
+<img src="../images/rspca2.png" alt="Login" />
+<img src="../images/rspca3.png" alt="Login" /></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Employment - Shakespeare 400 Exhibition iPad App</title>
+			<link>https://ollypolly.github.io/posts/stmarysvideo/</link>
+			<pubDate>Wed, 01 Jul 2015 16:09:40 +0100</pubDate>
+			
+			<guid>https://ollypolly.github.io/posts/stmarysvideo/</guid>
+			<description>I created an iOS iPad app using React Native for visitors to speak about Shakespeare and what he means to them. I later compiled some of these into a video using Final Cut Pro to be uploaded to the website.
+Video:</description>
+			<content type="html"><![CDATA[<p>I created an iOS iPad app using React Native for visitors to speak about Shakespeare and what he means to them. I later compiled some of these into a video using Final Cut Pro to be uploaded to the website.</p>
+
+<p>Video:
+<br/>
+<iframe width="760" height="415" src="https://www.youtube.com/embed/nCORNVuKsbA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>AS level Computing Project - Visual Basic Mancala</title>
+			<link>https://ollypolly.github.io/posts/mancala/</link>
+			<pubDate>Mon, 01 Jul 2013 16:09:40 +0100</pubDate>
+			
+			<guid>https://ollypolly.github.io/posts/mancala/</guid>
+			<description>For the final project of AS level computing it was required that we develop a game in Visual Basic.
+The game I chose to develop was mancala, a two player came in which stones are moved around a row of holes in order to capture the opponents. pieces. This game utilized the build in design editor of Visual Basic package we were given.</description>
+			<content type="html"><![CDATA[<p>For the final project of AS level computing it was required that we develop a game in Visual Basic.</p>
+
+<p>The game I chose to develop was mancala, a two player came in which stones are moved around a row of holes in order to capture the opponents. pieces. This game utilized the build in design editor of Visual Basic package we were given.</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>

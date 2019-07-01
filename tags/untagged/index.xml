@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Olly Pethick</title>
-    <link>https://ollypolly.github.io/</link>
-    <description>Recent content on Olly Pethick</description>
+    <title>untagged on Olly Pethick</title>
+    <link>https://ollypolly.github.io/tags/untagged/</link>
+    <description>Recent content in untagged on Olly Pethick</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Mon, 01 Jul 2019 16:09:40 +0100</lastBuildDate>
     
-	<atom:link href="https://ollypolly.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ollypolly.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -43,16 +43,6 @@ Screenshots: </description>
       <description>I took on the redesign of a current church website. The website used a content management system ExpressionEngine. I redesigned the front end of the website and used the existing backend to add more features to the website. I also ensured the website was fully mobile responsive.
 Link: http://www.stmaryswarwick.org.uk
 Original Website Screenshot: New Website Screenshots: </description>
-    </item>
-    
-    <item>
-      <title>2nd Year Group Project - Socorro - Web Help Desk Application</title>
-      <link>https://ollypolly.github.io/posts/socorro/</link>
-      <pubDate>Sun, 01 Jul 2018 14:46:21 +0100</pubDate>
-      
-      <guid>https://ollypolly.github.io/posts/socorro/</guid>
-      <description>As part of a 2nd Year Group project, I led a team of 5 people to design and develop a dynamic web help desk application for managing software and hardware issues in a company.
-Screenshots: </description>
     </item>
     
     <item>

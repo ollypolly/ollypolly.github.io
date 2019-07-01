@@ -7,9 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Mon, 01 Jul 2019 16:09:40 +0100</lastBuildDate>
     
 	<atom:link href="https://ollypolly.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>untagged</title>
+      <link>https://ollypolly.github.io/tags/untagged/</link>
+      <pubDate>Mon, 01 Jul 2019 16:09:40 +0100</pubDate>
+      
+      <guid>https://ollypolly.github.io/tags/untagged/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
